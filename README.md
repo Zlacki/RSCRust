@@ -1,4 +1,4 @@
-RSCRust Server
+=RSCRust Server=
 
 This is a server that implements and processes the RuneScape Classic network protocol.
 It's going to implement the features that RuneScape Classic had in its version 202 mudclient release.
